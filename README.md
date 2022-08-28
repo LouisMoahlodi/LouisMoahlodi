@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis Moahlodi</h1>
-<h3 align="center">I am an aspiring Full Stack Software Engineer</h3>
+<h3 align="center">I am an aspiring Full Stack Software Engineer with ALX 👨🏾‍💻</h3>
 <img align="center" alt="Coding" width="480" height="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louismoahlodi&label=Profile%20views&color=0e75b6&style=flat" alt="louismoahlodi" /> </p>
